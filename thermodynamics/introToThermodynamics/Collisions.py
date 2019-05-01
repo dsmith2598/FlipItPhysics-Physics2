@@ -115,10 +115,10 @@ woo, that was a pretty tedious question
 import math
 
 if __name__ == '__main__':
-    massOfBlockA = 1.8
-    massOfBlockB = 7.3
-    forceOnBlockA = 602
-    distanceByBlockA = 2.4
+    massOfBlockA = 3.3
+    massOfBlockB = 1.6
+    forceOnBlockA = 556
+    distanceByBlockA = 6.1
 
     workDoneOnBlockA = forceOnBlockA * distanceByBlockA
     velocityOfA = math.sqrt(2 * workDoneOnBlockA / massOfBlockA)
